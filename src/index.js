@@ -2,8 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 //import App from "./App";
-//import FirstProgram from "./FirstProgram";
-//import Parent from "./Parent";
+//import Paragraph from "./Paragraph";
 //import StopWatch from "./StopWatch";
 import ArrayConversion from "./ArrayConversion";
 
