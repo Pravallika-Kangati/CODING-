@@ -6,6 +6,10 @@ In the project directory, you can run:
 
 ### `npm install @material-ui/core --save`
 
+### `npm i material-ui-dropzone --save`
+
+### `npm i prop-types --save`
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
